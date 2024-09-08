@@ -45,4 +45,4 @@ This project showcases a tool designed to generate detailed testing instructions
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DiptanshuMahakud/TestingInstructionGeneration.git
